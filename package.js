@@ -1,8 +1,8 @@
 Package.describe({
   name: 'color:iletimerkezi',
   version: '0.0.1',
-  summary: '',
-  git: '',
+  summary: 'Meteor iletimerkezi sms gönderme paketi',
+  git: 'https://github.com/coloryazilim/iletimerkezi.git',
   documentation: 'README.md'
 });
 
