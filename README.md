@@ -1,6 +1,7 @@
 ### İleti Merkezi
 
 Paketi Kullanmak için ekleyiniz
+
     meteor add color:iletimerkezi
 
 
