@@ -1,5 +1,7 @@
 ### İleti Merkezi
 
+İletiMerkezi, SMS API'si aracılığı ile kendi yazılımlarınıza SMS gönderme özelliğini eklemenizi sağlar. Birebir mesajlaşma, alarm sistemleri, OTP & anlık bilgilendirme, aktivasyon vb. servisler için kolayca kulanabilirsiniz.
+
 Paketi Kullanmak için ekleyiniz
 
     meteor add color:iletimerkezi
